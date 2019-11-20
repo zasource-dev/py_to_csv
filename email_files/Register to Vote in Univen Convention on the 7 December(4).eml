@@ -1,0 +1,93 @@
+Return-Path: <mawelalutendo@gmail.com>
+Delivered-To: sylvester@alumniconvocation.co.za
+Received: from zulu.aserv.co.za
+	by zulu.aserv.co.za with LMTP
+	id EOepHeOQwl1lBwIA5AHuLg
+	(envelope-from <mawelalutendo@gmail.com>)
+	for <sylvester@alumniconvocation.co.za>; Wed, 06 Nov 2019 11:22:43 +0200
+Return-path: <mawelalutendo@gmail.com>
+Envelope-to: sylvester@alumniconvocation.co.za
+Delivery-date: Wed, 06 Nov 2019 11:22:43 +0200
+Received: from spe2.ucebox.co.za ([197.242.159.36]:57754)
+	by zulu.aserv.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <mawelalutendo@gmail.com>)
+	id 1iSHWV-000fPm-9k
+	for sylvester@alumniconvocation.co.za; Wed, 06 Nov 2019 11:22:43 +0200
+Received: from mail-il1-f178.google.com ([209.85.166.178])
+	by spe2.ucebox.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <mawelalutendo@gmail.com>)
+	id 1iSHWL-0006zJ-IS
+	for sylvester@alumniconvocation.co.za; Wed, 06 Nov 2019 11:22:41 +0200
+Received: by mail-il1-f178.google.com with SMTP id s75so21142408ilc.3
+        for <sylvester@alumniconvocation.co.za>; Wed, 06 Nov 2019 01:22:32 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=ohE9vaJ7CPHBRa+8Ts8O4ZWYHvDCTmCguTi1PtPItho=;
+        b=XZSwBnlWOSloZ/Wsx6Y9SRM/RAssRYV+wgzhcEdFAX7CxXAsoaLbxpkwoU+0rDr0s7
+         6QtDUfr2Zgqto3N5J65MM/MAZhgS4r9huF03y/sXQs7INw3/bCBiaxGjQcHPoARriHR5
+         19K4HGRWRaSldd6zJ5F4n7q7Oz5NyB1GgCCrVPAxaKP0qsL0XROoKt9tXDLHHkIjMUD3
+         5/KVcFl8r17YPHyVp0Bwv7JAKnZQFcll71TR01AhMgWY61Hkf0psWFVmcrFj83JHLHZT
+         FFbmllwu8IDvJs9PemO9xwMbFs+Aq1fI8rcFcFKI8kRT8det4aHdpwrPqru7652CVNfC
+         gg3w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=ohE9vaJ7CPHBRa+8Ts8O4ZWYHvDCTmCguTi1PtPItho=;
+        b=mFHBo15eLjomdgWjcgZN5mn2pWVq4ue6viqYvxDWUCVESUIc8fuDKGzYjrHaOydZfC
+         8SDcNME9hbIsQyu4UYjxGUprEexa23ARpF8osCKCZZ1egqF7QosCPlzgsxrM8i5vkYXQ
+         hwFdAyoG7zM9fOEcX+r31G3Yj1xSLQYp1MXRNQtWCFVgcCaJR9ln7rhKeA3LV7AsSxvn
+         SLdBrjul8N3Q8vZPHzmpOKVXvqqDvIWhyThp37C4aQesIYHoTSWH90m/t72anpnGEAJf
+         4CV9TcNm4rh48djz8EalPc+293CoRxRRdSCz3AChrUMNL/OXJhlVrAmtW0Gj/W+J4k8Y
+         /N0g==
+X-Gm-Message-State: APjAAAWSfXXxBu9zqNdpmpjh0T4q5rpfpP8kNusSxGDlUOSYoqYrgOBp
+	2EKihpbD6yZmmADVvd/C+pMnv2U9Cn3lAWeY6Oo=
+X-Google-Smtp-Source: APXvYqxCEGf0M7MF4BxiH3Vek/8Msi+qcTiQv98V2pjRZvqMesDhToOnDyIwR0JcNgwP13gT4mdYKkKoqlgSqbZJPdE=
+X-Received: by 2002:a92:c888:: with SMTP id w8mr1547120ilo.153.1573032149619;
+ Wed, 06 Nov 2019 01:22:29 -0800 (PST)
+MIME-Version: 1.0
+From: Lutendo Mawela <mawelalutendo@gmail.com>
+Date: Wed, 6 Nov 2019 11:22:16 +0200
+Message-ID: <CAFoMYywmveS43ss_pnCvyp7e4u0S-dEdAbBbdP-9cT_oxf8k5g@mail.gmail.com>
+Subject: Register to Vote in Univen Convention on the 7 December
+To: alumni@univen.ac.za
+Cc: sylvester@alumniconvocation.co.za
+Content-Type: multipart/alternative; boundary="0000000000007f97bf0596aa169d"
+Received-SPF: pass (spe2.ucebox.co.za: domain of gmail.com designates 209.85.166.178 as permitted sender) client-ip=209.85.166.178; envelope-from=mawelalutendo@gmail.com; helo=mail-il1-f178.google.com;
+X-SPF-Result: spe2.ucebox.co.za: domain of gmail.com designates 209.85.166.178 as permitted sender
+Authentication-Results: spe2.ucebox.co.za; dmarc=pass header.from=gmail.com
+Authentication-Results:  ucebox.co.za; spf=pass smtp.mailfrom=mawelalutendo@gmail.com; dkim=pass header.i=gmail.com
+X-Afrihost-Class: ham
+X-Afrihost-Evidence: Combined (0.15)
+X-Recommended-Action: accept
+X-Filter-ID: 8G1aH+8yearZuN6N5+X5bm6KuAmzEgFjeXz34jnHp0yUbbjGR2IRRoiRCclrUvUZVaPuWW65IIT8
+ lIUNtU+PTFEQyVzDVZOlehQ3EiJLhbv8VlLvDGe6XFT1btXsYu8D3zK/PVPrztPhkk34QZEl0uaV
+ SkZaB3v/IqidIfBMgc8k1npE9EgTh8ntllWsuR4oOiMsC4szOwlv288TE+yI8pXhx0G4S9ppWH47
+ 38XZihuQe+EfnF240Dfh1SBAuselCq+bl2oXYD1re5h6iZdIQ/PCXbUAzv/TghejURyEVwNs4+2q
+ hi9faLJx0PvanIGnFuz1t3KbGvwoKbwogFSu3kB0CXBW0c1MKokM6Yd0/Ax1dWsXYVVLEMRCdm4l
+ UeyS04bsYYoszow7IKPCef5kED7nH33nbzK3LvlB5UQEXWDvl4ZKfm8TL9G6ZeEPfxKU05l4EII2
+ Hd+1plbmA3HkVQcOXHjLLSSSyukaemzc2sm96X4g/4wPqEPjxbmayM07asuExWjuzmsL+LXEDqfC
+ 8bwqyT5p50x81ZKcmzCu2U05xtF3xe//t5hsgHhlJAQsOBtxa5jaUkvbrJx5g8XZpdQmV5Z+1S6W
+ RsLXYNyKI5QBDLdZGhaGMngAFGniylMEJOAwDHMzGGrc4VU6I950y1ACLAWZ4iMdXQflVCcNyvzh
+ yWhRBd88jM3aMpUiQE/5Os7vsAFzVd1v1GhPoE7QP3WZqGqjoFA+nXfajRcpxggkkXSkQEKX9M1A
+ iNCJNpHeGo9TZHspSNPqVMjZsQ0ZCGEgA9gA/lqWUDWpTkfecGKGuuqjz7j5B/zfm3Iunsi76iXs
+ yzacAf/SM2UOKIKKe89riqOZDhcSC9d4CixZCF0JlCB8lkopC1JJC9aKbwTPxcQdIQofPH36sqVi
+ IeE3eSfXy5Z8XtFMSy0yvT/JCkpvA3QEKTMFvUWB5kl7tpOKhSPAaQ2/i9XqhC6WEvXvpWxjMHrO
+ zch7mAXUI3dWLXjZivf/ITfcunMqZH27p9xlmKr/aAzp+ouAVyUagcc1PqEsmgNU80KTDQcWwe0S
+ 4mCphC1rv0VV8dsyU3EBAHHUvLRwWLDV9tKNPHcjRurTZA==
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+--0000000000007f97bf0596aa169d
+Content-Type: text/plain; charset="UTF-8"
+
+Please Enter your FullName:Lutendo mawela,IdNumber: 9410060751080, Email:
+mawelalutendo@gmail.com, Contact Number: 0764349875
+
+--0000000000007f97bf0596aa169d
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Please Enter your FullName:Lutendo mawela,IdNumber: 9410060751080, Email: <a href="mailto:mawelalutendo@gmail.com">mawelalutendo@gmail.com</a>, Contact Number: 0764349875</div>
+
+--0000000000007f97bf0596aa169d--

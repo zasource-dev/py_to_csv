@@ -1,0 +1,93 @@
+Return-Path: <senciahnyundu@gmail.com>
+Delivered-To: sylvester@alumniconvocation.co.za
+Received: from zulu.aserv.co.za
+	by zulu.aserv.co.za with LMTP
+	id KO6fDdiVwl32bAMA5AHuLg
+	(envelope-from <senciahnyundu@gmail.com>)
+	for <sylvester@alumniconvocation.co.za>; Wed, 06 Nov 2019 11:43:52 +0200
+Return-path: <senciahnyundu@gmail.com>
+Envelope-to: sylvester@alumniconvocation.co.za
+Delivery-date: Wed, 06 Nov 2019 11:43:52 +0200
+Received: from spe6.ucebox.co.za ([197.242.152.135]:60562)
+	by zulu.aserv.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <senciahnyundu@gmail.com>)
+	id 1iSHqy-0009CN-4R
+	for sylvester@alumniconvocation.co.za; Wed, 06 Nov 2019 11:43:52 +0200
+Received: from mail-il1-f174.google.com ([209.85.166.174])
+	by spe6.ucebox.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <senciahnyundu@gmail.com>)
+	id 1iSHqs-0006IO-Jt
+	for sylvester@alumniconvocation.co.za; Wed, 06 Nov 2019 11:43:51 +0200
+Received: by mail-il1-f174.google.com with SMTP id n18so14179805ilt.9
+        for <sylvester@alumniconvocation.co.za>; Wed, 06 Nov 2019 01:43:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=iWBhgDf3Vur5UGuJjGCnJf2X+AQAvRlVwdTK2OUN8eA=;
+        b=oKA8bNkk70ZDOc5W5aBLMwM+SE/0MNJxGgYoK61A++e7Wkpto6fAKXSlarvtdPojh3
+         nXJrEXbDq4yoADUELU6ZWsYmg046snxymDxY0xNtR0HUN9kIIC7qh89ZnQ6rb8m7ZjNq
+         QmT9ManKY0bMZcLN9Opo3Oe5x+YlK3XonYRSKholPghN3F7x4NuDLq03IzWNbOC5oKSn
+         /3fQHLeu4wbjOvgI+e1q5TTc126UlJjF1S3MCv24TqJJEJVnO2pUNy3yCPaj1SVaUXvr
+         IWmxIEVqdBsHobBccbNIk1NXhhwI7n4i+W5YuWg9ykQ+EGqL5Zm/sCa1eGm3+PEva8+E
+         aEXA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=iWBhgDf3Vur5UGuJjGCnJf2X+AQAvRlVwdTK2OUN8eA=;
+        b=c82ZO+/PBwdCviBzMpbrT9e/Btttmm/P9FeWe+FDuXvX3Om3tERwx78TiZc1eVvE+y
+         +vq7+eeS3mC+aafZoQwMi6blIRRRHjX5I3oP4uhk52IPnfMW+skJWttey9mdZn2qs1Ot
+         c3fylkmw3/a7W2uyCmnT6WI1CPnoRftokUnUAG1WL1SuCggo7AQjID5fi/cpCFuZb6m2
+         nxRts1wTfbiqTJbx4+XhjyCCKwYSvRQZCAvvrcqWBVerUXbDTYuABgVTrMh+4Vbp3wAZ
+         OvJzLx3vRsjkXUMSIFQLoxWQrf8ODp2W1OxX8984PK75cOfLlBJO/K2ikP+LbEMOFXZC
+         hDwg==
+X-Gm-Message-State: APjAAAVfXG6VKok6HqQ1hi6qHiCWB72n3zcB/iKOm0hRnlo4cyP7ZuJG
+	kmPwKTv/Aeh8X31D5SnWnKb9bfOKAQ+ITUq3fDnzKQ==
+X-Google-Smtp-Source: APXvYqziZy6nDZHCtjJan1951wtWoelyWIiaB5QVFbgj8kOUXW7omDRzB/GzEhWAoFxlDlaIEIz+VNI854kTtgQgONA=
+X-Received: by 2002:a92:d28d:: with SMTP id p13mr1767389ilp.227.1573033423315;
+ Wed, 06 Nov 2019 01:43:43 -0800 (PST)
+MIME-Version: 1.0
+From: senciah nyundu <senciahnyundu@gmail.com>
+Date: Wed, 6 Nov 2019 11:43:28 +0200
+Message-ID: <CAAKtDsbZhf=BSO1G04S5hKo8-6riok7QXETHJghsD5YSYucU0Q@mail.gmail.com>
+Subject: Register to Vote in Univen Convention on the 7 December
+To: alumni@univen.ac.za
+Cc: sylvester@alumniconvocation.co.za
+Content-Type: multipart/alternative; boundary="0000000000006ab55f0596aa6266"
+Received-SPF: pass (spe6.ucebox.co.za: domain of gmail.com designates 209.85.166.174 as permitted sender) client-ip=209.85.166.174; envelope-from=senciahnyundu@gmail.com; helo=mail-il1-f174.google.com;
+X-SPF-Result: spe6.ucebox.co.za: domain of gmail.com designates 209.85.166.174 as permitted sender
+Authentication-Results: spe6.ucebox.co.za; dmarc=pass header.from=gmail.com
+Authentication-Results:  ucebox.co.za; spf=pass smtp.mailfrom=senciahnyundu@gmail.com; dkim=pass header.i=gmail.com
+X-Afrihost-Class: ham
+X-Afrihost-Evidence: Combined (0.15)
+X-Recommended-Action: accept
+X-Filter-ID: 8G1aH+8yearZuN6N5+X5bm6KuAmzEgFjeXz34jnHp0yUbbjGR2IRRoiRCclrUvUZVaPuWW65IIT8
+ lIUNtU+PTFEQyVzDVZOlehQ3EiJLhbuhWuC/CGR5C27R6j5tj575yl5CemmI89dhcfn73XA6OOaV
+ SkZaB3v/IqidIfBMgc8k1npE9EgTh8ntllWsuR4oOiMsC4szOwlv288TE+yI8pXhx0G4S9ppWH47
+ 38XZihuFc9NAomDVfFoOGZZuyrfhCq+bl2oXYD1re5h6iZdIQ/PCXbUAzv/TghejURyEVwNs4+2q
+ hi9faLJx0PvanIGn3BZ4z4bsIILxJ7HpgIoGQUB0CXBW0c1MKokM6Yd0/Ax1dWsXYVVLEMRCdm4l
+ UeyS04bsYYoszow7IKPCef5kED7nH33nbzK3LvlB5UQEXWDvl4ZKfm8TL9G6ZeEPfxKUo1zpAgc+
+ QUfk5zS7P7dPbBa8N8wS+idJZDJVtpGyBRe96X4g/4wPqEPjxbmayM07asuExWjuzmsL+LXEDqfC
+ 8bwqyT5p50x81ZKcmzCu2U05xtF3xe//t5hsgHhlJAQsOBtxa5jaUkvbrJx5g8XZpdQmV5Z+1S6W
+ RsLXYNyKI5QBDLdZGhaGMngAFGniylMEJOAwDHMzGGrc4VU6I950y1ACLAWZ4iMdXQflVCcNyvzh
+ yWhRBd88jM3aMpUiQE/593wvZTChPWwfDgTtlLzfbFENM47/C1ed94hyPjPr2jvgZLlDQs7wch1V
+ UWVdfoqJlQJGlfbUAiKnJjLg6I4Zgwva8PIM0XWiVQ+76f6p9bFEWUmBuwdj/0CeDZhKxDGaoGWQ
+ EvZuWQCoNahq3mTnRTuwlJQYehoTyuCGYxY5A8YH5FM7RaIkPRO5Tm6fTXGqj8vX9LHZdULe2GYN
+ zUxT7RmQoigWzPt+CzQtBruzW61RXxKF5tPxTxfD0dMN+t5Z8ou4MEXbQWs6N8qFvTwm9iJpU51w
+ k6G3VSgfaEiRlrZbZRZXFh9k+jehh7eZVWmaK7XGT4eoHPlyan1rQd3KEtNwSOq6I/Pk2B7sCOGB
+ jfT49Wm77VgAl2G/B17ER8OGg23lhPyyP0AWRClIrfW8Kg==
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+--0000000000006ab55f0596aa6266
+Content-Type: text/plain; charset="UTF-8"
+
+Please Enter your FullName:Senciah Zinhle Nyundu,IdNumber: 9402160860085,
+Email: senciahnyundu@gmail.com, Contact Number: 0720248130
+
+--0000000000006ab55f0596aa6266
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Please Enter your FullName:Senciah Zinhle Nyundu,IdNumber: 9402160860085, Email: <a href="mailto:senciahnyundu@gmail.com">senciahnyundu@gmail.com</a>, Contact Number: 0720248130</div>
+
+--0000000000006ab55f0596aa6266--

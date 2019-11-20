@@ -1,0 +1,93 @@
+Return-Path: <johnnychuene@gmail.com>
+Delivered-To: sylvester@alumniconvocation.co.za
+Received: from zulu.aserv.co.za
+	by zulu.aserv.co.za with LMTP
+	id UORgOIeYwl22eQEA5AHuLg
+	(envelope-from <johnnychuene@gmail.com>)
+	for <sylvester@alumniconvocation.co.za>; Wed, 06 Nov 2019 11:55:19 +0200
+Return-path: <johnnychuene@gmail.com>
+Envelope-to: sylvester@alumniconvocation.co.za
+Delivery-date: Wed, 06 Nov 2019 11:55:19 +0200
+Received: from spe10.ucebox.co.za ([197.242.159.25]:53860)
+	by zulu.aserv.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <johnnychuene@gmail.com>)
+	id 1iSI23-000RhQ-R4
+	for sylvester@alumniconvocation.co.za; Wed, 06 Nov 2019 11:55:19 +0200
+Received: from mail-ot1-f52.google.com ([209.85.210.52])
+	by spe10.ucebox.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <johnnychuene@gmail.com>)
+	id 1iSI1I-0000nZ-8m
+	for sylvester@alumniconvocation.co.za; Wed, 06 Nov 2019 11:55:16 +0200
+Received: by mail-ot1-f52.google.com with SMTP id m15so11556422otq.7
+        for <sylvester@alumniconvocation.co.za>; Wed, 06 Nov 2019 01:54:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=lOLtNi8VVRg3vFxbo0BH+gQP6LzpgcMXV7wBWQogFRg=;
+        b=eMe5AaULPjo1HC/PQQ9AYOM/8n8HFFv6u3WIP644KuhTTSxn9JPpbHFkZdXcZYHy8U
+         dm8K5ll8Kv/w7TvCr1X3Wlj+4Yv4hXVLU73i1vD76fK++Mv6h2Bfyr/7jZnQBkLdGCnH
+         oqvhhEFMh7P3VMZuQXAT0B3rGPAaHhrRA2/iO6qhVCSVE0fMyIgMa9U8L38/yKDW+Rx6
+         BNBCYltztD1OjwcCkDJQag6OuV0X084h/MDNmJZhspOjlYYwor5yEAWlDLFLVInxxwFX
+         Pf3iG5U3bJIFTOZjSTvV3SGIqvQRjNg0CkuGDTIEpeSmg+otVrDGiZYILyD0vKslC1PA
+         eCyA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=lOLtNi8VVRg3vFxbo0BH+gQP6LzpgcMXV7wBWQogFRg=;
+        b=JAvx7iu4jFD+nMTOVthELEXNGFn3Ih1atCvCtUTYIAPeYgYK899Mb4Q1aCfpfyJezq
+         haoJ7xEWtIXQQqrhRPleJPgHjTqQ9aU0CV5FW2XDYNcZ2uJo03Ld0c0ynUfZogBUClD0
+         X7+EWg/aEdqXZHT6AyDz3sknkcesV9CCXuO6VZfauWJTx/X8cWD3rDsciYHsjyXdK1ri
+         U3CUgYEx6Zy2VgyfdNXGYQPdfXVTKL9LfKnUIK8EXKU7LiGIMtt39GKWYoO312zUx8M4
+         U7EnptQO47laYj1E1ehrPgydgoNUbmM9t/oTfY4xCz6Xm0L1xcrfk2r5FYm1mWbwtptN
+         l2Nw==
+X-Gm-Message-State: APjAAAXYwo0enw1du2tOTCPU4U1Cgd0Oms+NCcmHQdIrp3PzYAJOk6aY
+	kAsG00aR9JDGEQS5SksmGdcLGEm9NUzVClYI1kQ=
+X-Google-Smtp-Source: APXvYqyH07hN3JgO23Z2+/5TbPQIkwptL+mMsqaiZXanmoPUboamHr8yUA5J/4+ynVFcJtG3c7uWZaDL5xffnNmrNfw=
+X-Received: by 2002:a9d:39a5:: with SMTP id y34mr1147075otb.36.1573034063883;
+ Wed, 06 Nov 2019 01:54:23 -0800 (PST)
+MIME-Version: 1.0
+From: Johnny Chuene <johnnychuene@gmail.com>
+Date: Wed, 6 Nov 2019 11:54:12 +0200
+Message-ID: <CAMPaJtBqxQxqfc6-4ZLGdpi89rwede+p4CY6FKb4hc2xR_Wk5A@mail.gmail.com>
+Subject: Register to Vote in Univen Convention on the 7 December
+To: alumni@univen.ac.za
+Cc: sylvester@alumniconvocation.co.za
+Content-Type: multipart/alternative; boundary="00000000000098f22d0596aa88df"
+Received-SPF: pass (spe10.ucebox.co.za: domain of gmail.com designates 209.85.210.52 as permitted sender) client-ip=209.85.210.52; envelope-from=johnnychuene@gmail.com; helo=mail-ot1-f52.google.com;
+X-SPF-Result: spe10.ucebox.co.za: domain of gmail.com designates 209.85.210.52 as permitted sender
+Authentication-Results: spe10.ucebox.co.za; dmarc=pass header.from=gmail.com
+Authentication-Results:  ucebox.co.za; spf=pass smtp.mailfrom=johnnychuene@gmail.com; dkim=pass header.i=gmail.com
+X-Afrihost-Class: ham
+X-Afrihost-Evidence: Combined (0.15)
+X-Recommended-Action: accept
+X-Filter-ID: 8G1aH+8yearZuN6N5+X5bm6KuAmzEgFjeXz34jnHp0yUbbjGR2IRRoiRCclrUvUZVaPuWW65IIT8
+ lIUNtU+PTFEQyVzDVZOlehQ3EiJLhbsYpE8DLCInHWHGFP3yFAz3FEPk950Si3tJvLMt04Fwwy7a
+ 9EtxK1Ct4kMy/B/H//EtLeFp0icR/UpM4QuI85HsqQtAZEDicH3lUAU4oQgMeOhf3qt49/5veHB+
+ lpFHl5mJbNfbL1+ByBXlmbp5gM0GmGon6qDcTnkKLJzsP6dJWZ7ZISY256CZGRhU9XSyikp2W14r
+ 9vDS2AVJ1rnUNL0b+9x2WkD9DrNpD3ztQd6wvEB0CXBW0c1MKokM6Yd0/Ax1dWsXYVVLEMRCdm4l
+ UeyS04bsYYoszow7IKPCef5kED7nH33nbzK3LvlB5UQEXWDvl4ZKfm8TL9G6ZeEPfxKUg7bGav3+
+ oUEEyfoz/flsqN9ZnSXjlLEVJWxlwEcyO/jjVGEGcISjSOQpJEVF5x1f3TQ3XNW75kcM0I7R0xJ3
+ Qj3dKxLhoxcmaInYbR5vlqH8cYcM5MX5tiKxqcbzKpKN7VDT9+QOP0ZtNks50GKxAN1mHTcTFOoO
+ q4AKk2yYOuVye1nMP7x65Dc9Mkf58ZkYowngvZqt/MQ4mTbYhPMD3KOzHfWxk42ldiAaOJs36JAo
+ un7CLXEdkOAMf+Tb/El+pRkyxMWmymD4NPWFM5kqiCIp55m4XDP3yDg376fL3HNSAAwcxDa9Bc0h
+ gEvgXbcL+mr84JcUqjwaZaHP3ZSJh052odM4TMy5L0t6/7g/rUMjhT0sF5w/hxGXx1sh7wSPE62v
+ Md1YfPsQNnwe7vMpiSCDQd1hyR2PhuUNoYEBmPlxA0DiWN0Eh5/LorL/2C7yFvnobXa0+Kp4cBpU
+ khzRhOdgx6amSe+2+UTl61Jv9zReN/ebHID9PXEJA2gzHou8X9P7EyOvUkoH7V75s7fdOuuO5TcD
+ eKjrEmYPn2IVWRvV8JHlZPjsVDSGvxjkEkZ5SSjOZxZAZfuAomqdvuN5ZSzS555JC/eJE0J20PW7
+ DIAY+BajS382DM1A7fzcYMCTv5NhmO7lqIWRVp1OEO/yvQ==
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+--00000000000098f22d0596aa88df
+Content-Type: text/plain; charset="UTF-8"
+
+FullName:Choene Johny ,IdNumber: 9310285870089, Email:
+johnnychuene@gmail.com, Contact Number: 0817236230
+
+--00000000000098f22d0596aa88df
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">FullName:Choene Johny ,IdNumber: 9310285870089, Email: <a href="mailto:johnnychuene@gmail.com">johnnychuene@gmail.com</a>, Contact Number: 0817236230</div>
+
+--00000000000098f22d0596aa88df--
