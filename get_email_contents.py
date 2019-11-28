@@ -47,4 +47,4 @@ if __name__ == "__main__":
                 print(detail)
                 pass
 
-    upload_to_drive()
+    # upload_to_drive()
